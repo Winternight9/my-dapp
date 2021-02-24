@@ -5444,11 +5444,11 @@
     "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
   },
   "networks": {
-    "5777": {
+    "42": {
       "events": {},
       "links": {},
-      "address": "0xE6573586b3A14E99594DAC641dd83E44a3fFC41b",
-      "transactionHash": "0x57ef84166066513d993c15f547c257b35a5671d44a241827d6f989a0df6e9320"
+      "address": "0x6806f92Ba8cDa292c7C66CCa95f53e6Fbd038518",
+      "transactionHash": "0xb9255c94a3c551fb8e394a4d4757c5e64e7c032dd564a0ec30eb61fc16073be3"
     }
   },
   "schemaVersion": "3.2.3",
